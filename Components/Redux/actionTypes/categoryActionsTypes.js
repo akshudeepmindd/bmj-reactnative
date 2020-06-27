@@ -1,0 +1,7 @@
+export const CATEGORY_LIST = 'CATEGORY_LIST';
+export const SUBCATEGORY_LIST = 'SUBCATEGORY_LIST';
+export const PRODUCT_LIST = 'PRODUCT_LIST';
+export const PRODUCT_DETAIL = 'PRODUCT_DETAIL';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const CART_ITEMS = 'CART_ITEMS';

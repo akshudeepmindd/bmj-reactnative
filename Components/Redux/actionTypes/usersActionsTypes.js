@@ -1,0 +1,8 @@
+export const CREATE_USERS = 'CREATE_USERS';
+export const LOGIN_USERS = 'LOGIN_USERS';
+export const BASIC_DETAILS = 'BASIC_DETAILS';
+export const PROFFESSIONA_DETAIL = 'PROFFESSIONA_DETAIL';
+export const EDIT_DETAIL = 'EDIT_DETAIL';
+export const CHANGE_PASSWORD = 'CHANGE_PASSWORD'
+export const AUTHENTICATE = 'AUTHENTICATE'
+export const LOGOUT = 'LOGOUT';
